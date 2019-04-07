@@ -172,7 +172,7 @@ namespace rutracker_rate
 
         private void зарубежные2019ГодToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Text = "зарубежные2019Год";
+            Text = "зарубежные 2019 Год";
             textBoxStartPage.Text = "https://rutracker.org/forum/viewforum.php?f=1950";
             get_textAsync();
         }
