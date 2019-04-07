@@ -186,7 +186,7 @@ namespace rutracker_rate
 
         private void нашеКиноToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Text = "нашеКино";
+            Text = "наше Кино";
             textBoxStartPage.Text = "https://rutracker.org/forum/viewforum.php?f=22";
             get_textAsync();
         }
